@@ -208,7 +208,6 @@ public class Silly implements Comparable<Silly>{
         }
     }
 
-
     /*
      * Submit the changes you made on GitHub!
      *                When you submit it, go to the 'Actions' tab. You should
